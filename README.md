@@ -1,0 +1,1 @@
+# amplify-cool-app
